@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Lessons1_5" />
+        <module name="Lessons1_6" />
+        <module name="Lessons1_7 Dependency Injection с помощью сеттера" />
+        <module name="Lessons1_5 — копия" />
+        <module name="Lessons1_2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
